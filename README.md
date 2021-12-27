@@ -25,3 +25,15 @@ ctrl + shift + h
 ```
 shift + alt + f
 ```
+
++ tìm kiếm tên file
+```
+ctrl + p
+gõ tên file vào
+```
+
++ di chuyển nhanh tới 1 file
+```
+ctrl + p
+:dòng số bao nhiêu vào
+```
