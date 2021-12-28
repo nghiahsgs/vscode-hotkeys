@@ -37,3 +37,8 @@ gõ tên file vào
 ctrl + p
 :dòng số bao nhiêu vào
 ```
+
++ mở settings trên vs code
+```
+ctrl + ,
+```
